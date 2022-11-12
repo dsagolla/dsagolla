@@ -5,7 +5,7 @@
   <a href="https://mstdn.social/@dsagolla">
     <img src="https://img.shields.io/badge/Mastadon-%236364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="mailto:daniel.sagolla@udo.edu">
+  <a href="mailto:daniel.sagolla@udo.edu?subject=[GitHub]">
     <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with: python packaging
 - 💬 Ask me about: anything
-- 📫 How to reach me: &nbsp; [![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/daniel_sagolla) &nbsp; [![Mastodon Badge](https://img.shields.io/badge/Mastadon-%236364FF?style=plastic&logo=mastodon&logoColor=white)](https://mstdn.social/@dsagolla) &nbsp; [![Email  Badge](https://img.shields.io/badge/Email-lightgrey?style=plastic&logo=minutemailer&logoColor=white)](mailto:daniel.sagolla@udo.edu)
+- 📫 How to reach me: &nbsp; [![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/daniel_sagolla) &nbsp; [![Mastodon Badge](https://img.shields.io/badge/Mastadon-%236364FF?style=plastic&logo=mastodon&logoColor=white)](https://mstdn.social/@dsagolla) &nbsp; [![Email  Badge](https://img.shields.io/badge/Email-lightgrey?style=plastic&logo=minutemailer&logoColor=white)](mailto:daniel.sagolla@udo.edu?subject=[GitHub]])
 - 😄 Pronouns: ... he / him
 - ⚡ Fun fact: ... i love cooking (vegan) and to bicycle
 
