@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... my first python package
+- 🔭 I’m currently working on ... my first python package https://github.com/dsagolla/nssvie
 - 🌱 I’m currently learning ...python packaging, writing documentation, ci/cd
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
