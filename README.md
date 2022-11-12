@@ -9,20 +9,20 @@
 
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... my first python package |nssvie-package|
+- 🔭 I’m currently working on my first python package: &nbsp; [![GitHub Badge](https://img.shields.io/badge/nssvie-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/dsagolla/nssvie)
 - 🌱 I’m currently learning ...python packaging, writing documentation, ci/cd
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with: python packaging
 - 💬 Ask me about ... anything
-- 📫 How to reach me: ... |twitter| |mastodon| 
+- 📫 How to reach me: &nbsp; [![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/daniel_sagolla) &nbsp; [![Mastodon Badge](https://img.shields.io/badge/Mastadon-%236364FF?style=flat&logo=mastodon&logoColor=white)](https://mstdn.social/@dsagolla)
 - 😄 Pronouns: ... he / him
 - ⚡ Fun fact: ... i love cooking (vegan) and to bicycle
 
-.. |twitter| image::
-    :target: https://twitter.com/daniel_sagolla
-.. |mastodon| image::
-    :target: https://mstdn.social/@dsagolla
-.. |nssvie-package| image:: 
-    :target: https://github.com/dsagolla/nssvie
+---
+
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</p>
