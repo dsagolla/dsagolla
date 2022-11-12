@@ -1,4 +1,5 @@
 <div id="badges">
+<p align="center">
   <a href="https://twitter.com/daniel_sagolla">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -8,9 +9,11 @@
   <a href="mailto:daniel.sagolla@udo.edu?subject=[GitHub]">
     <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Twitter Badge"/>
   </a>
+</p>
 </div>
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-### Hi there 👋
+### :man_technologist: &nbsp;About Me :
 
 - 🔭 I’m currently working on my first python package: &nbsp; [![GitHub Badge](https://img.shields.io/badge/nssvie-%23181717?style=plastic&logo=github&logoColor=white)](https://github.com/dsagolla/nssvie)
 - 🌱 I’m currently learning: python packaging (build, pytest), writing documentation (sphinx, .rst), ci/cd (GitHub Actions)
