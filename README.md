@@ -36,8 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" title="R" **alt="R" width="40", height="40"/>
   </a>
 <a href="https://de.mathworks.com/products/matlab.html/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg
-" title="MATLAB" **alt="MATLAB" width="40", height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" title="MATLAB" **alt="MATLAB" width="40", height="40"/>
   </a>
 <a href="https://github.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40", height="40"/>
@@ -52,8 +51,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" title="PyCharm Community" **alt="PyCharm Community" width="40", height="40"/>
   </a>
 <a href="https://www.latex-project.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg
-" title="LaTeX" **alt="LaTeX" width="40", height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="LaTeX" width="40", height="40"/>
   </a>
 
 
