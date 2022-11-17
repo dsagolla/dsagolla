@@ -32,6 +32,32 @@
 <a href="https://www.python.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40", height="40"/>
   </a>
-<a href="https://git-scm.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40", height="40"/>
+<a href="https://www.r-project.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" title="R" **alt="R" width="40", height="40"/>
   </a>
+<a href="https://de.mathworks.com/products/matlab.html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg
+" title="MATLAB" **alt="MATLAB" width="40", height="40"/>
+  </a>
+<a href="https://github.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40", height="40"/>
+  </a>
+<a href="https://ubuntu.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40", height="40"/>
+  </a>
+<a href="https://vscodium.com/">
+    <img src="https://raw.githubusercontent.com/VSCodium/vscodium/master/icons/stable/codium_only.svg" title="VSCodium" **alt="VSCodium" width="40", height="40"/>
+  </a>
+<a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" title="PyCharm Community" **alt="PyCharm Community" width="40", height="40"/>
+  </a>
+<a href="https://www.latex-project.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg
+" title="LaTeX" **alt="LaTeX" width="40", height="40"/>
+  </a>
+
+
+
+
+
+
