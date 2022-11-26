@@ -6,7 +6,7 @@
   <a href="https://mstdn.social/@dsagolla">
     <img src="https://img.shields.io/badge/Mastadon-%236364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="mailto:daniel.sagolla@udo.edu?subject=[GitHub]">
+  <a href="mailto:dsagolla@mailbox.org?subject=[GitHub]">
     <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
