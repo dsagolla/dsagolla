@@ -15,7 +15,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-- 🔭 I’m currently working on my first python package: &nbsp; [![GitHub Badge](https://img.shields.io/badge/nssvie-%23181717?style=plastic&logo=github&logoColor=white)](https://github.com/dsagolla/nssvie)
+- 🔭 I’m currently working on my first python packages: &nbsp; [![GitHub Badge](https://img.shields.io/badge/nssvie-%23181717?style=plastic&logo=github&logoColor=white)](https://github.com/dsagolla/nssvie) &nbsp; [![GitHub Badge](https://img.shields.io/badge/stochpro-%23181717?style=plastic&logo=github&logoColor=white)](https://github.com/dsagolla/stochpro)
 - 🌱 I’m currently learning: python packaging (build, pytest), writing documentation (sphinx, .rst), ci/cd (GitHub Actions)
 - 👯 I’m looking to collaborate on: package about copulas and dependence modelling
 - 🤔 I’m looking for help with: python packaging
