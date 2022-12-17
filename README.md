@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning: python packaging (build, pytest), writing documentation (sphinx, .rst), ci/cd (GitHub Actions)
 - 👯 I’m looking to collaborate on: package about copulas and dependence modelling | package about stochastic-processes
 - 💬 Ask me about: anything
-- 📫 How to reach me: &nbsp; [![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/daniel_sagolla) &nbsp; [![Mastodon Badge](https://img.shields.io/badge/Mastadon-%236364FF?style=plastic&logo=mastodon&logoColor=white)](https://mstdn.social/@dsagolla) &nbsp; [![Email  Badge](https://img.shields.io/badge/Email-lightgrey?style=plastic&logo=minutemailer&logoColor=white)](mailto:daniel.sagolla@udo.edu?subject=[GitHub]])
+- 📫 How to reach me: &nbsp; [![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/daniel_sagolla) &nbsp; [![Mastodon Badge](https://img.shields.io/badge/Mastadon-%236364FF?style=plastic&logo=mastodon&logoColor=white)](https://mstdn.social/@dsagolla) &nbsp; [![Email  Badge](https://img.shields.io/badge/Email-lightgrey?style=plastic&logo=minutemailer&logoColor=white)](mailto:dsagolla@mailbox.org?subject=[GitHub]])
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: i love cooking (vegan) and to bicycle
 
