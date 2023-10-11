@@ -1,8 +1,5 @@
 <div id="badges">
 <p align="center">
-  <a href="https://twitter.com/daniel_sagolla">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://mstdn.social/@dsagolla">
     <img src="https://img.shields.io/badge/Mastadon-%236364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Twitter Badge"/>
   </a>
